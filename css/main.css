@@ -124,7 +124,7 @@ address > a, a:hover, a:focus {  color: ghostwhite;  }
 }
 .copyright a {  color: white;  }
 
-.footer-main::after {
+.stripedbar {
     content: "";
     width: 100%;
     height: 3px;
